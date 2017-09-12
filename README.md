@@ -68,8 +68,8 @@ The HTML with minimal setup (see the full [example](./example))
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="//cdn.jsdelivr.net/react/15.4.2/react.min.js"></script>
-    <script src="//cdn.jsdelivr.net/react/15.4.2/react-dom.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/react@15.6.1/dist/react.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/react-dom@15.6.1/dist/react-dom.min.js"></script>
 
     <link rel="stylesheet" href="./node_modules/graphql-voyager/dist/voyager.css" />
     <script src="./node_modules/graphql-voyager/dist/voyager.min.js"></script>
